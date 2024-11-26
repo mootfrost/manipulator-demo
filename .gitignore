@@ -1,0 +1,6 @@
+# pixi environments
+.pixi
+*.egg-info
+models
+__pycache__
+datasets
